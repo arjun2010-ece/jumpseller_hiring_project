@@ -27,3 +27,4 @@ Decisions made during development::
 7. I kept all the api requests separately in an api folder so that things can be separated or compartmentalised.
 8. I implemented search functionality as well as how many posts are there at any given point of time in terms of number.
 9. I used bootstrap card to elegantly display Comments and post details components in less space.
+10. empty state, loading state and post not found are implemented as and when its required.
