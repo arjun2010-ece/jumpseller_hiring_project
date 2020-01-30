@@ -6,8 +6,10 @@ http://cryptic-meadow-38085.herokuapp.com/
 
 If you clone the repo in the local then the below commands need to be executed::
 
-npm install
+npm install  // for installing dependencies
+
 npm start    // for running the project locally
+
 npm test    //for running the tests 
 
 npm build // for runing the build
